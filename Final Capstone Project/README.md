@@ -2,7 +2,7 @@
 
 This project is a Flask-based web application that captures and analyzes network traffic. It supports real-time packet capture and pcap file uploads for traffic analysis. The application uses libraries like Scapy, Pandas, Matplotlib, and Tabulate for packet sniffing, data processing, and generating visual insights.
 
-![Thumbnail](/img.png)
+![Thumbnail](img.png)
 
 ## Features
 
@@ -21,7 +21,7 @@ This project is a Flask-based web application that captures and analyzes network
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/prashant-sagar-shakya/NetPilot.git
+    git clone https://github.com/shubhamisonmail/NetPilot.git
     cd NetPilot
     ```
 

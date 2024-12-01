@@ -22,5 +22,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                    | Link                                                                                                                                                                                                                   |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mini Project: Text Encoder & Decoder | https://github.com/sure-trust/PRASHANT-SAGAR-SHAKYA-g9-cs/tree/main/Mini%20projects/Caesar%20Cipher <br> https://github.com/sure-trust/PRASHANT-SAGAR-SHAKYA-g9-cs/tree/main/Mini%20projects/Rijndael%20Cipher%20(AES) |
-| Final Project: NetPilot                        | https://github.com/sure-trust/PRASHANT-SAGAR-SHAKYA-g9-cs/tree/main/Final%20capstone%20project                                                                                                                         |
+| Mini Project: Text Encoder & Decoder | https://github.com/sure-trust/Shubham_g9-cs/tree/main/Mini%20Projects|
+| Final Project: NetPilot                        | https://github.com/sure-trust/Shubham_g9-cs/tree/main/Final%20Capstone%20Project                                                                                                                        |
